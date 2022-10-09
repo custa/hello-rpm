@@ -1,6 +1,6 @@
 Name:       hello-rpm
 Version:    1
-Release:    1
+Release:    2
 Summary:    Most simple RPM package
 License:    FIXME
 
